@@ -24,7 +24,7 @@ I am a Software engineer student <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: I’m currently studying and still looking for my first opportunity in the Tech industry!
 
-- :zap: I have done a 'Python for Data Science' 10-week online course at Oxford University and currently doing a 'Software Engineering bootcamp' at HyperionDev.
+- :zap: I have done a 'Python for Data Science' 10-week online course at Oxford University and also done a 'Software Engineering bootcamp' at HyperionDev.
 
 - 💻: In my free time, I try to do research on new methods to optimise my code
 
